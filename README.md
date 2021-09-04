@@ -1,2 +1,7 @@
-# useful-scripts
-⌨️ Mostly linux (debian) terminal scripts to accomplish simple and useful tasks
+# scripts
+⌨️  My collection of terminal scripts.
+
+Categories:
+* sh
+* bat
+* py
